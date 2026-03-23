@@ -2,6 +2,7 @@
 
 ## Descrição
 Script Python que compara o conteúdo de dois diretórios, identificando divergências entre arquivos com mesmo nome e gerando um relatório detalhado.
+*OBS: Script criado para atender uma necessidade no trabalho*
 
 ## Funcionalidades
 - Compara arquivos entre duas pastas
